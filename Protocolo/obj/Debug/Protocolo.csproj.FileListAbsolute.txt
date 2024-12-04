@@ -1,0 +1,6 @@
+C:\Users\Sebas\Source\Repos\rk2k33\AD_PA01_2024A\Protocolo\bin\Debug\Protocolo.dll
+C:\Users\Sebas\Source\Repos\rk2k33\AD_PA01_2024A\Protocolo\bin\Debug\Protocolo.pdb
+C:\Users\Sebas\Source\Repos\rk2k33\AD_PA01_2024A\Protocolo\obj\Debug\Protocolo.csproj.AssemblyReference.cache
+C:\Users\Sebas\Source\Repos\rk2k33\AD_PA01_2024A\Protocolo\obj\Debug\Protocolo.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\Source\Repos\rk2k33\AD_PA01_2024A\Protocolo\obj\Debug\Protocolo.dll
+C:\Users\Sebas\Source\Repos\rk2k33\AD_PA01_2024A\Protocolo\obj\Debug\Protocolo.pdb
